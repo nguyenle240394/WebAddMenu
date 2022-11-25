@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UPsQwIVZqgL6qMtHYDPyDLH5pM2YPuPVak1pa0nYDViiba/ED6FAzM/kSrho5RNxVsqxTNursYbvY7j85PitMw==",
+  "success": true,
+  "projectFilePath": "D:\\WorkSpace\\WebAppAddMenu\\WebAppAddMenu\\WebAppAddMenu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENGUYEN\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

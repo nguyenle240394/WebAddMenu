@@ -1,0 +1,88 @@
+﻿@page
+@model WebAppAddMenu.Pages.CreateMenuModel
+@{
+}
+
+<style>
+
+    .wrapper-form {
+        width: 100%;
+        margin-top: 16rem;
+    }
+
+    .content-form {
+        margin: 0 auto;
+        width: 50%;
+        /*padding: 250px 150px;*/
+        padding: 50px 0px 50px 30px;
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    }
+
+    /*{input[type="text"] {
+        width: calc(100% - 115px);
+    }*/
+
+    .mr-menu{
+        margin-top: 1.2rem;
+        padding-left: 5rem;
+    }
+
+    .width-label{
+        width: 110px;
+    }
+
+    .title-create-menu{
+        padding-bottom: 10px;
+    }
+
+    .text-center{
+        text-align:center;
+    }
+
+    .create-menu-button{
+        text-align: center;
+        margin-top: 3rem;
+    }
+
+    .btn-create {
+        background: #d31638;
+        color: #fff;
+        border: none;
+        padding: 8px 12px;
+        border-radius: 6px;
+    }
+
+    input{
+        width: 300px;
+    }
+
+    
+</style>
+<form method="post" enctype="multipart/form-data" asp-action="CreataMenu">
+    <div class="wrapper-form">
+        <div class="content-form">
+            <div class="title-create-menu">
+                <h2 class="text-center">CREATE MENU</h2>
+            </div>
+            <div class="mr-menu">
+                <label class="width-label">Menu Code :</label>
+                <input type="text" placeholder="Menu Code" name="menuCode" />
+            </div>
+            <div class="mr-menu">
+                <label class="width-label">Menu Name :</label>
+                <input type="text" placeholder="Menu Name" name="menuName" />
+            </div>
+            <div class="mr-menu">
+                <label class="width-label">Description :</label>
+                <input type="text" placeholder="Desrciption" name="description" />
+            </div>
+            <div class="mr-menu">
+                <label class="width-label">Module Code :</label>
+                <input type="text" placeholder="Module Code" name="moduleCode" />
+            </div>
+            <div class="create-menu-button">
+                <button type="submit" class="btn-create">Create Menu</button>
+            </div>
+        </div>
+    </div>
+</form>

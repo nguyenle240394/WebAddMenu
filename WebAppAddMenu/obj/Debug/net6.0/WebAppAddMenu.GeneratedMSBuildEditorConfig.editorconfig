@@ -1,0 +1,44 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebAppAddMenu
+build_property.RootNamespace = WebAppAddMenu
+build_property.ProjectDir = D:\WorkSpace\WebAppAddMenu\WebAppAddMenu\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\WorkSpace\WebAppAddMenu\WebAppAddMenu
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/WorkSpace/WebAppAddMenu/WebAppAddMenu/Pages/CreateMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/WebAppAddMenu/WebAppAddMenu/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/WebAppAddMenu/WebAppAddMenu/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/WebAppAddMenu/WebAppAddMenu/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/WebAppAddMenu/WebAppAddMenu/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/WebAppAddMenu/WebAppAddMenu/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/WebAppAddMenu/WebAppAddMenu/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mz8y8gqyxy
